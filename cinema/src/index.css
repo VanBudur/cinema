@@ -1,0 +1,30 @@
+/* .navNo1{
+  
+} */
+.navNo1{
+  list-style-type: none;
+  margin: none;
+  padding: none;
+}
+.navNo1{
+  display: inline;
+}
+.navNo1{
+  background-color: blueviolet;
+}
+.navNo1ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
