@@ -1,0 +1,44 @@
+body{
+  background-color: #262729;
+}
+ /* first nav */
+.navNo1 ul {
+  list-style-type: none;
+  margin: none;
+  padding: none;
+}
+.navNo1{
+  display: inline;
+}
+.navNo1 ul li{
+  background-color: rgb(87, 138, 196);
+}
+.navNo1ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.navNo1 li a {
+  display: block;
+  padding: 14px 20px;
+  background-color: #000000;
+}
+
+/* nav 2 */
+.navNo2 ul{
+  list-style: none;
+  display: block;
+}
+.navNo2 li a {
+  display: block;
+  padding: 14px 20px;
+  background-color: #000000;
+}
+.navNo1 li, .navNo2 li {
+  display: inline; 
+}
+li {
+  float: left;
+}
+
